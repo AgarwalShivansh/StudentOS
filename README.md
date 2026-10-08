@@ -1,6 +1,7 @@
 # StudentOS AI
 
 A unified AI student platform built with Streamlit, SQLite, Groq, RAG, and machine learning.
+Live:- https://studentos-ai.streamlit.app/
 
 ## Features
 - Student profile persisted in SQLite
